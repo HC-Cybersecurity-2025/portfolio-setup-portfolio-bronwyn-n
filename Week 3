@@ -1,0 +1,27 @@
+# CYBR-1100 • Week 3 • Logic Bombs
+ 
+**Student:** Bronwyn Nelson  
+**Date:** 2025-09-12
+ 
+## Purpose
+This artifact is what is important in computer security. There are many things that can happen to your computer or software, because of hackers. 
+ 
+## Evidence 
+- https://www.beyondtrust.com/resources/glossary/logic-bomb
+
+## What I did
+There are many different kinds of malware that can occur. One of them is a logic bomb. I have some research of a few of the infamous logic bombs and have
+learned a lot. These are malicious malware that occurs when someone plants code in the software and it waits for something to occur to make a reaction.
+Some of the things that could occur is user actions, system conditions, event bases triggers, or even date or time.
+ 
+## Reflection
+These stay dormant until triggered. So you have no idea if you would have a logic bomb. This makes it important to keep your account and computer secure and 
+protected so there would be no way for a logic bomb. The purpose for logic bombs are to cause harm, delete, corrupt, or steal your own personal information.
+A couple examples of logic bombs are Duronio's logic bomb, stuxnet, and SQL slammer. Some of the aftermath of logic bombs are data loss, financial losses, 
+operational downtime, reputation damage, data breaches, online property theft, national security risks, system disruption,compliance issues, and investigation
+and recovery costs. This takes a huge toll on the system that has had a logic bomb harm their software. It is so important to secure your systems by cloud storage,
+data backups, an extra hard disk drive, external USB storage device, continuous cloud backup, and of course a strong security. 
+ 
+## References
+- Ciampa, M. (2022). *Security awareness* (6e). Cengage. (Ch. 3)  
+- OER: Phishing Red Flags (Course Resources)
